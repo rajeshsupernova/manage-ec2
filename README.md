@@ -24,3 +24,7 @@ cd /var/www/html
 ```
 composer install aws/aws-sdk-php
 ```
+## File Contents
+1. index.php - main script
+2. config.php - update your credentials here
+3. logout.php - needed for session management.
